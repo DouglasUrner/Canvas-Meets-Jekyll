@@ -1,5 +1,5 @@
 <details><summary>
-# Collapsible Step 1
+<h3>Collapsible Step 1</h3>
 </summary>
   <p>Here you can put some content...</p>
   <p>... and anything else you want :)</p>
